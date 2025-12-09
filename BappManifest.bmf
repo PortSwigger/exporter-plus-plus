@@ -3,7 +3,7 @@ ExtensionType: 1
 Name: Exporter++
 RepoName: exporter-plus-plus
 ScreenVersion: 3.2.0
-SerialVersion: 1
+SerialVersion: 2
 MinPlatformVersion: 20
 ProOnly: True
 Author: Fcvebf
