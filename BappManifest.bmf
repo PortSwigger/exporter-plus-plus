@@ -1,0 +1,13 @@
+Uuid: a6517c5a526f46719b8b4f6ebca2144f
+ExtensionType: 1
+Name: Exporter++
+RepoName: exporter-plus-plus
+ScreenVersion: 3.2.0
+SerialVersion: 1
+MinPlatformVersion: 20
+ProOnly: False
+Author: Fcvebf
+ShortDescription: This extension enables the user to upload identified security issues to Pwndoc or to export them in different document formats.
+EntryPoint: IssuesExporter.jar
+BuildCommand: ./gradlew build
+SupportedProducts: Pro, Community
