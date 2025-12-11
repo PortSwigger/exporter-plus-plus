@@ -3,10 +3,10 @@ ExtensionType: 1
 Name: Exporter++
 RepoName: exporter-plus-plus
 ScreenVersion: 3.2.0
-SerialVersion: 2
+SerialVersion: 3
 MinPlatformVersion: 20
 ProOnly: True
-Author: Fcvebf
+Author: Spyridon Chatzimichail
 ShortDescription: Upload identified security issues to Pwndoc or export them in different document formats.
 EntryPoint: IssuesExporter.jar
 BuildCommand: ./gradlew build
